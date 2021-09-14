@@ -46,7 +46,11 @@ a {
     text-decoration: none;
 }
 
-p {
+.content p {
+    font-size: 24px;
+}
+
+.benefits p {
     font-size: 16px;
 }
 
