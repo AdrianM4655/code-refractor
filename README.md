@@ -45,7 +45,7 @@ One that is done, go ahead and change directories to that file just cloned! Once
 
 ## SnapShot
 
-![SiteSnapshot](images\snap-shot-1.png)
+![SiteSnapshot](https://www.linkpicture.com/q/snap-shot-1.png)
 
 
 ## Authors
