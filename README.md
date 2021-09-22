@@ -43,6 +43,10 @@ One that is done, go ahead and change directories to that file just cloned! Once
 
 * [See Live Site](https://shamika69.github.io/code-refractor/)
 
+## SnapShot
+
+![SiteSnapshot](images\snap-shot-1.png)
+
 
 ## Authors
 
